@@ -1,3 +1,3 @@
 # My personal website
 
-Checkout my website at [https://anaghapatil.github.io](https://anaghapatil.github.io)!
+Checkout my website at [https://anaghapatill.github.io](https://anaghapatill.github.io)!
