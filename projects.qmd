@@ -1,0 +1,50 @@
+---
+title: "Projects"
+page-layout: full
+title-block-banner: true
+---
+
+<!-- ### Projects -->
+
+#### 1. **LVDCS: Minimising Doubts in Distance Learning**
+- Lecture Video Doubt Clarification System is an interactive, real-time user query response system for e-learning videos utilizing Transformers, LLMs and CV
+- Visual-language task for natural interaction with videos, aiming to increase the understanding of the lecture video content
+- With the help of lecture videos and their corresponding transcripts, doubt clarification is performed, taking into consideration domain knowledge
+- <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30"/><a href="https://github.com/anaghapatill/LVDCS" target="_blank">Repository</a>
+
+<!-- :::{#video-container style="text-align: center"}
+<video controls style="width: 100%; max-width: 600px; height: auto;">
+  <source src="content/LVDCS_Minimising_Doubts_In_Distance_Learning.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+::: -->
+
+{{< video "content/LVDCS_Minimising_Doubts_In_Distance_Learning.mp4" title="LVDCS: Minimising Doubts in Distance Learning" width="600" >}}
+
+<!-- --- -->
+
+#### 2. **NSE Market Data Analysis**
+- Developed visualisation charts and generated buy/sell signals for real time NSE market data from Moneycontrol
+- Open Interest of Calls and Puts were analyzed using a Stacked Grouped Bar Chart using PyPlot
+- This method of visualisation is not available with any established market information providers like Opstra,
+DefineEdge and Sensibull (Zerodha)
+- Specific Data related to Index (Nifty / Nifty Bank) namely LTP, VWAP, Put Call Ratio (PCR), Change in PCR, Open interest (OI) and Change in OI were captured every 5 mins to generate Buy / Sell signals
+
+::: {layout-ncol=2}
+![](content/Options_Analytics.jpeg)
+
+![](content/analytics.png)
+:::
+
+#### 3. **Market Basket Analysis**
+- Analysed customer buying patterns using XGBoost, RFC and Logistic Regression to increase grocery store sales
+- <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30"/><a href="https://github.com/anaghapatill/Market-Basket-Analysis" target="_blank">Repository</a>
+
+#### 4. **Text Summarisation of Literature Paper**
+- NLP based system for literature paper summarisation via extractive summarisation
+- <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30"/><a href="https://github.com/anaghapatill/Text-Summarisation-of-Literature-Papers" target="_blank">Repository</a>
+
+#### 5. **Yet Another MapReduce**
+- Implemented Hadoop’s MapReduce in Python using Socket Programming for master-worker node communication, supporting
+custom input, mapper and reducer files, with adjustable worker node count for read, write or map reduce operations
+- <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30"/><a href="https://github.com/anaghapatill/Yet-Another-Map-Reduce" target="_blank">Repository</a>

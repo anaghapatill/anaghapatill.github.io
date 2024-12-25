@@ -1,0 +1,24 @@
+---
+title: "Publications"
+page-layout: full
+---
+
+<style>
+  .citation {
+    display: none;
+  }
+  .show-citation {
+    display: block;
+  }
+</style>
+
+<script>
+  function toggleCitation(id) {
+    var citationDiv = document.getElementById("citation-" + id);
+    citationDiv.classList.toggle("show-citation");
+  }
+</script>
+
+[1] Transformative Approaches to E-Learning Videos: Generative vs. Extractive Question Answering for Enhanced Doubt Clarification, CODEAI 2024 (Accepted for Publication) \
+\
+[2] LVDCS: Minimising Doubts in Distance Learning, ISDIA 2025 (Accepted for Publication)

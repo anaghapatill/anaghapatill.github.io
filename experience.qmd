@@ -1,0 +1,30 @@
+---
+title: "Experience"
+page-layout: full
+title-block-banner: true
+---
+
+<!-- ### Projects -->
+
+##### **Machine Learning Engineer** | Bosch Global Software Technologies
+_Aug 2024 - Present_ \
+• Working in the Poles and Boom Gates Detection team for **ADAS development** in autonomous vehicles \
+• Built the initial data preparation and loading pipeline for boom barrier detection \
+• Developing deep neural networks, including data preparation, loading, and network training, for pole object detection on different camera types \
+
+---
+
+##### **MLOps Intern** | Bosch Global Software Technologies
+_Jan - May 2024_ \
+• Worked in the Traffic Lights Detection team for **ADAS development** in autonomous vehicles \
+• Generated ∼1L augmented traffic lights data and engineered an end to end pipeline to perform training on Azure ML \
+• Improved traffic lights detection performance of underrepresented classes by **∼10% to ∼25%** through augmentation \
+• Identified and resolved a bug leading to imprecise evaluation metrics, ensuring accurate metric assessments post-training \
+
+---
+
+##### **MLOps Summer Intern** | Bosch Global Software Technologies
+_June - July 2023_ \
+• Worked under Video Perception team for **ADAS development** for autonomous vehicles \
+• Visualised and mapped traffic images to their corresponding geo-locations on the map. Find more details [here](https://github.com/anaghapatill/Data-on-Map). \
+• Logged custom metrics for jobs in Azure Machine Learning and displayed them in Microsoft Teams. Find more details [here](https://github.com/anaghapatill/Azure-ML-Metrics). \

@@ -1,0 +1,13 @@
+---
+title: "Teaching"
+page-layout: full
+title-block-banner: true
+---
+
+### Teaching Assistantships
+
+##### **Machine Intelligence** | PESU
+_Aug - Dec 2023_ \
+- Prepared course slides and assignments \
+- Mentored ∼60 students in course lab work \
+- Organised and guided students in Machine Intelligence Hackathon \

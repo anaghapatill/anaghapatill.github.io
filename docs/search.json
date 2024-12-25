@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "1. LVDCS: Minimising Doubts in Distance Learning\n\nLecture Video Doubt Clarification System is an interactive, real-time user query response system for e-learning videos utilizing Transformers, LLMs and CV\nVisual-language task for natural interaction with videos, aiming to increase the understanding of the lecture video content\nWith the help of lecture videos and their corresponding transcripts, doubt clarification is performed, taking into consideration domain knowledge\nRepository\n\n\n\n\n\n\n2. NSE Market Data Analysis\n\nDeveloped visualisation charts and generated buy/sell signals for real time NSE market data from Moneycontrol\nOpen Interest of Calls and Puts were analyzed using a Stacked Grouped Bar Chart using PyPlot\nThis method of visualisation is not available with any established market information providers like Opstra, DefineEdge and Sensibull (Zerodha)\nSpecific Data related to Index (Nifty / Nifty Bank) namely LTP, VWAP, Put Call Ratio (PCR), Change in PCR, Open interest (OI) and Change in OI were captured every 5 mins to generate Buy / Sell signals\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3. Market Basket Analysis\n\nAnalysed customer buying patterns using XGBoost, RFC and Logistic Regression to increase grocery store sales\nRepository\n\n\n\n4. Text Summarisation of Literature Paper\n\nNLP based system for literature paper summarisation via extractive summarisation\nRepository\n\n\n\n5. Yet Another MapReduce\n\nImplemented Hadoop’s MapReduce in Python using Socket Programming for master-worker node communication, supporting custom input, mapper and reducer files, with adjustable worker node count for read, write or map reduce operations\nRepository"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Teaching Assistantships\n\nMachine Intelligence | PESU\nAug - Dec 2023\n- Prepared course slides and assignments\n- Mentored ∼60 students in course lab work\n- Organised and guided students in Machine Intelligence Hackathon"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Anagha Patil",
+    "section": "",
+    "text": "anagha0306@gmail.com\n  \n  \n    \n     linkedin\n  \n  \n    \n     github\n  \n\n  \n  \n\nI currently work as an ML Engineer at Bosch Global Software Technologies, focusing on poles and boom gates detection for ADAS system in autonomous vehicles. My role involves designing pipelines for data preparation, network training, and enhancing object detection accuracy across different camera types. Previously, as an MLOps Intern at Bosch, I worked on improving traffic light detection for underrepresented classes and streamlined ML pipelines using Azure ML.\nWith hands-on experience in AI/ML tools, I’ve contributed to real-world projects, such as autonomous driving, enhancing various ADAS applications. My interests lie broadly in deep learning and natural language processing, and I am passionate about leveraging technology to solve complex challenges and creating impactful solutions.\nFind my projects, publications and resume here!"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Anagha Patil",
+    "section": "🎓 Education",
+    "text": "🎓 Education\nPES University | 2020 - 2024\nBachelor of Technology in Computer Science and Engineering\nAwards: 4x recipient of MRD Scholarship (40% tuition fee waiver for top 20%), 2x recipient of DAC Scholarship\nCoursework: Machine Intelligence, Deep Learning, Natural Language Processing, Data Analytics, Big Data"
+  },
+  {
+    "objectID": "projects.html#market-basket-analysis-using-ml-algorithms",
+    "href": "projects.html#market-basket-analysis-using-ml-algorithms",
+    "title": "Projects",
+    "section": "#### 3. Market Basket Analysis using ML algorithms",
+    "text": "#### 3. Market Basket Analysis using ML algorithms"
+  },
+  {
+    "objectID": "experience.html",
+    "href": "experience.html",
+    "title": "Experience",
+    "section": "",
+    "text": "Machine Learning Engineer | Bosch Global Software Technologies\nAug 2024 - Present\n• Working in the Poles and Boom Gates Detection team for ADAS development in autonomous vehicles\n• Built the initial data preparation and loading pipeline for boom barrier detection\n• Developing deep neural networks, including data preparation, loading, and network training, for pole object detection on different camera types\n\n\n\n\nMLOps Intern | Bosch Global Software Technologies\nJan - May 2024\n• Worked in the Traffic Lights Detection team for ADAS development in autonomous vehicles\n• Generated ∼1L augmented traffic lights data and engineered an end to end pipeline to perform training on Azure ML\n• Improved traffic lights detection performance of underrepresented classes by ∼10% to ∼25% through augmentation\n• Identified and resolved a bug leading to imprecise evaluation metrics, ensuring accurate metric assessments post-training\n\n\n\n\nMLOps Summer Intern | Bosch Global Software Technologies\nJune - July 2023\n• Worked under Video Perception team for ADAS development for autonomous vehicles\n• Visualised and mapped traffic images to their corresponding geo-locations on the map. Find more details here.\n• Logged custom metrics for jobs in Azure Machine Learning and displayed them in Microsoft Teams. Find more details here."
+  },
+  {
+    "objectID": "pubs.html",
+    "href": "pubs.html",
+    "title": "Publications",
+    "section": "",
+    "text": "[1] Transformative Approaches to E-Learning Videos: Generative vs. Extractive Question Answering for Enhanced Doubt Clarification, CODEAI 2024 (Accepted for Publication)\n\n[2] LVDCS: Minimising Doubts in Distance Learning, ISDIA 2025 (Accepted for Publication)"
+  }
+]

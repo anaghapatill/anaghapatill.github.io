@@ -1,0 +1,49 @@
+---
+title: "Anagha Patil"
+page-layout: full
+image: content/AnaghaPatil.png 
+about: 
+  id: anagha-patil-header
+  template: trestles
+  image-width: 16em
+  links:
+    - icon: envelope-fill
+      text: anagha0306@gmail.com
+    - icon: linkedin
+      text: linkedin
+      href: https://www.linkedin.com/in/anagha-cp
+    - icon: github
+      text: github
+      href: https://github.com/anaghapatill
+---
+
+:::{#anagha-patil-header}
+
+
+<!-- <div style="text-align: justify">  -->
+I currently work as an ML Engineer at Bosch Global Software Technologies, focusing on poles and boom gates detection for <a href="https://www.bosch-mobility.com/en/company/current-news/bosch-and-cariad-develop-automated-driving-functions/" target="_blank">ADAS system in autonomous vehicles</a>. My role involves designing pipelines for data preparation, network training, and enhancing object detection accuracy across different camera types. Previously, as an MLOps Intern at Bosch, I worked on improving traffic light detection for underrepresented classes and streamlined ML pipelines using Azure ML.
+
+With hands-on experience in AI/ML tools, I've contributed to real-world projects, such as autonomous driving, enhancing various ADAS applications. My interests lie broadly in deep learning and natural language processing, and I am passionate about leveraging technology to solve complex challenges and creating impactful solutions.
+
+Find my [projects](projects.qmd), [publications](pubs.qmd) and [resume](resumes/AnaghaPatil_Resume.pdf) here!
+<!-- </div> -->
+
+:::
+
+
+### Updates
+
+- **Jan 2025:** Presented my paper at <a href="https://isdia.org/index.php" target="_blank">ISDIA 2025</a>!
+- **Nov 2024:** Attended my first business workshop in Berlin, Germany, where I got to collaborate with the global video perception team from <a href="https://cariad.technology/de/en/careers/automated-driving-engineer.html" target="_blank">Cariad</a> and Bosch Germany, Romania, and Japan!
+- **Aug 2024:** Joined the Video Perception team at Bosch as an ML engineer, working in the Pole and Boom Barrier Detection team.
+- **July 2024:** Presented my paper at <a href="https://conference.manipal.edu/CODE-AI2024/" target="_blank">CODE-AI 2024</a>!
+- **Jan 2024:** Started my 5-month spring internship at Bosch in the Video Perception team, specifically in the Traffic Light Detection team.
+- **Aug 2023:** Worked as a teaching assistant for the Machine Intelligence course.
+- **June 2023:** Started my summer internship at Bosch in the Video Perception team for ADAS development for autonomous vehicles.
+
+## :mortar_board: Education
+
+**PES University** | 2020 - 2024 \
+_Bachelor of Technology in Computer Science and Engineering_ \
+<small>Awards: 4x recipient of MRD Scholarship (40% tuition fee waiver for top 20%), 2x recipient of DAC Scholarship</small> \
+<small>Coursework: Machine Intelligence, Deep Learning, Natural Language Processing, Data Analytics, Big Data</small> \
