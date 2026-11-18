@@ -25,5 +25,5 @@ format:
     # link-external-icon: true
     # link-external-newwindow: true
     from: markdown+emoji
-    theme: flatly
+    theme: darkly
     css: styles.scss
